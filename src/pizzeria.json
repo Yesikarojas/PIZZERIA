@@ -1,0 +1,107 @@
+[
+  {
+    "id" : 1,
+    "Name": "Hand Tossed",
+    "Type": "Cheeses Pizza",
+    "Size": "Small (10\")",
+    "Price": "$5.999"
+  },
+  {
+    "id" : 2,
+    "Name": "Hand Tossed",
+    "Type": "Cheeses Pizza",
+    "Size": "Medium (12\")",
+    "Price": "$7.999"
+  },
+  {
+    "id" : 3,
+    "Name": "Hand Tossed",
+    "Type": "Cheeses Pizza",
+    "Size": "Large (14\")",
+    "Price": "$9.999"
+  },
+  {
+    "id" : 4,
+    "Name": "Handmade Pan",
+    "Type": "Cheeses Pizza",
+    "Size": "Medium (12\")",
+    "Price": "$7.999"
+  },
+  {
+    "id" : 5,
+    "Name": "Crunchy Thin Crust",
+    "Type": "Cheeses Pizza",
+    "Size": "Small (10\")",
+    "Price": "$5.999"
+  },
+  {
+    "id" : 6,
+    "Name": "Crunchy Thin Crust",
+    "Type": "Cheeses Pizza",
+    "Size": "Medium (12\")",
+    "Price": "$7.999"
+  },
+  {
+    "id" : 7,
+    "Name": "Crunchy Thin Crust",
+    "Type": "Cheeses Pizza",
+    "Size": "Large (14\")",
+    "Price": "$9.999"
+  },
+  {
+    "id" : 8,
+    "Name": "Brooklyn Style",
+    "Type": "Cheeses Pizza",
+    "Size": "Large (14\")",
+    "Price": "$9.999"
+  },
+  {
+    "id" : 9,
+    "Name": "Brooklyn Style",
+    "Type": "Cheeses Pizza",
+    "Size": "X-Large (16\")",
+    "Price": "$11.999"
+  },
+  {
+    "id" : 10,
+    "Name": "Gluten Free Crust",
+    "Type": "Cheeses Pizza",
+    "Size": "Small (10\")",
+    "Price": "$8.999"
+  },
+  {
+    "id" : 11,
+    "Name": "Spinach & Feta (Hand Tossed or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.999"
+  },
+  {
+    "id" : 12,
+    "Name": "Spinach & Feta (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.999"
+  },
+  {
+    "id" : 13,
+    "Name": "Spinach & Feta (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.999"
+  },
+  {
+    "id" : 14,
+    "Name": "Spinach & Feta (Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.999"
+  },
+  {
+    "id" : 15,
+    "Name": "Spinach & Feta (Gluten Free Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.999"
+  }
+]
